@@ -12,9 +12,19 @@ class Program
         for (int i = 0; i < kPos.tabelKodePos.GetLength(0); i++)
         {
             string kelurahan = kPos.tabelKodePos[i, 0];
-            string kode = kPos.getKodePos(kelurahan); // Memanggil method sesuai instruksi 
+            string kode = kPos.getKodePos(kelurahan); // Memanggil method sesuai getkodepos 
 
             Console.WriteLine($"Kelurahan: {kelurahan,-15} | Kode Pos: {kode}");
         }
+        Console.WriteLine("\n-------------------------------------------\n");
+
+        Console.WriteLine("=== OUTPUT STATE-BASED (DOOR MACHINE) ===");
+
+        // Membuat instance (state awal otomatis "Pintu terkunci") 
+        DoorMachine pintu = new DoorMachine();
+
+        // Simulasi perubahan state sesuai diagram
+        pintu.PerubahanState("BukaPintu");  // Akan mencetak: "Pintu tidak terkunci" 
+        pintu.PerubahanState("KunciPintu"); // Akan mencetak: "Pintu terkunci" 
     }
 }
