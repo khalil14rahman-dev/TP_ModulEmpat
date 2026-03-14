@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TP_ModulEmpat")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+238f7674eef71a9e0b63148ac44078f293d92a69")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f91fe002ce7fab2849b8b5563dd1c767d17ee15")]
 [assembly: System.Reflection.AssemblyProductAttribute("TP_ModulEmpat")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TP_ModulEmpat")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

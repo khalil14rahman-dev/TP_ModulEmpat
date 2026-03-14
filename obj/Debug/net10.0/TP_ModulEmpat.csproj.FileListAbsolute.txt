@@ -1,0 +1,15 @@
+C:\Users\Khalil\source\repos\TP_ModulEmpat\TP_ModulEmpat\bin\Debug\net10.0\TP_ModulEmpat.exe
+C:\Users\Khalil\source\repos\TP_ModulEmpat\TP_ModulEmpat\bin\Debug\net10.0\TP_ModulEmpat.deps.json
+C:\Users\Khalil\source\repos\TP_ModulEmpat\TP_ModulEmpat\bin\Debug\net10.0\TP_ModulEmpat.runtimeconfig.json
+C:\Users\Khalil\source\repos\TP_ModulEmpat\TP_ModulEmpat\bin\Debug\net10.0\TP_ModulEmpat.dll
+C:\Users\Khalil\source\repos\TP_ModulEmpat\TP_ModulEmpat\bin\Debug\net10.0\TP_ModulEmpat.pdb
+C:\Users\Khalil\source\repos\TP_ModulEmpat\TP_ModulEmpat\obj\Debug\net10.0\TP_ModulEmpat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khalil\source\repos\TP_ModulEmpat\TP_ModulEmpat\obj\Debug\net10.0\TP_ModulEmpat.AssemblyInfoInputs.cache
+C:\Users\Khalil\source\repos\TP_ModulEmpat\TP_ModulEmpat\obj\Debug\net10.0\TP_ModulEmpat.AssemblyInfo.cs
+C:\Users\Khalil\source\repos\TP_ModulEmpat\TP_ModulEmpat\obj\Debug\net10.0\TP_ModulEmpat.csproj.CoreCompileInputs.cache
+C:\Users\Khalil\source\repos\TP_ModulEmpat\TP_ModulEmpat\obj\Debug\net10.0\TP_ModulEmpat.sourcelink.json
+C:\Users\Khalil\source\repos\TP_ModulEmpat\TP_ModulEmpat\obj\Debug\net10.0\TP_ModulEmpat.dll
+C:\Users\Khalil\source\repos\TP_ModulEmpat\TP_ModulEmpat\obj\Debug\net10.0\refint\TP_ModulEmpat.dll
+C:\Users\Khalil\source\repos\TP_ModulEmpat\TP_ModulEmpat\obj\Debug\net10.0\TP_ModulEmpat.pdb
+C:\Users\Khalil\source\repos\TP_ModulEmpat\TP_ModulEmpat\obj\Debug\net10.0\TP_ModulEmpat.genruntimeconfig.cache
+C:\Users\Khalil\source\repos\TP_ModulEmpat\TP_ModulEmpat\obj\Debug\net10.0\ref\TP_ModulEmpat.dll
